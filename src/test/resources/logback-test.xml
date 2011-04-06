@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE logback>
+<configuration>
+    <if condition='p("LOG_DIR").equals("")'>
+        <then>
+            <property name="LOG_DIR" value="target/log" />
+        </then>
+    </if>
+    
+    <timestamp key="bySecond" datePattern="yyyyMMdd'T'HHmmss" />
+
+    <appender name="FILE" class="ch.qos.logback.core.FileAppender">
+        <file>${LOG_DIR}/log-${bySecond}.txt</file>
+        <encoder>
+            <pattern>%-5p - %-26.26c{1} - %m%n</pattern>
+        </encoder>
+    </appender>
+
+    <logger name="jp.microbridge.r3.doma" level="TRACE" />
+    
+    <root level="WARN">
+        <appender-ref ref="FILE" />
+    </root>
+</configuration>
