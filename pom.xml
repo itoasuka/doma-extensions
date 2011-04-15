@@ -408,7 +408,7 @@
 			</plugin>
 
 			<!-- dashboard: http://maven.apache.org/plugins/dashboard-maven-plugin/ -->
-			<!-- <plugin> <groupId>org.codehaus.mojo</groupId> <artifactId>dashboard-maven-plugin</artifactId> 
+			<!-- <plugin> <groupId>org.codehaus.mojo</groupId> <artifactId>dashboard-maven-plugin</artifactId>
 				</plugin> -->
 
 			<!-- checkstyle: http://maven.apache.org/plugins/maven-checkstyle-plugin/ -->
