@@ -1,0 +1,4 @@
+jp.osd.doma.extensions
+jp.osd.doma.extensions.internal
+jp.osd.doma.extensions.jdbc
+jp.osd.doma.extensions.jdbc.tx

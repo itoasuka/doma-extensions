@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd version="4.2.5" timestamp="2011-04-15T15:36:15.910">
+<file name="/Users/itouasuka/src.available/doma-extensions/src/main/java/jp/osd/doma/extensions/internal/MessageCodes.java">
+<violation beginline="3" endline="3" begincolumn="1" endcolumn="29" rule="UnusedImports" ruleset="Import Statement Rules" package="jp.osd.doma.extensions.internal" externalInfoUrl="http://pmd.sourceforge.net/rules/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.sql.SQLException'
+</violation>
+<violation beginline="5" endline="5" begincolumn="1" endcolumn="50" rule="UnusedImports" ruleset="Import Statement Rules" package="jp.osd.doma.extensions.internal" externalInfoUrl="http://pmd.sourceforge.net/rules/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'org.seasar.doma.jdbc.SqlExecutionSkipCause'
+</violation>
+</file>
+</pmd>

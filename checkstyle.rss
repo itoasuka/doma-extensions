@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<rss version="0.91">
+  <channel>
+    <title>Doma Extensions - Checkstyle report</title>
+    <link>http://maven.apache.org</link>
+    <description>Doma Extensions - Checkstyle report</description>
+    <language>en-us</language>
+    <copyright>&#169;2011 OSD</copyright>
+    <item>
+      <title>File: 19,
+             Errors: 0,
+             Warnings: 5,
+             Infos: 0
+      </title>
+            <link>http://maven.apache.org/checkstyle.html</link>
+      <description>
+        <p>Click <a href="http://maven.apache.org/checkstyle.html">here</a> for the full Checkstyle report.</p>
+
+        <table summary="Files" boder="1">
+          <thead>
+            <tr>
+              <th>Files</th>
+              <th style="width:30px;"><abbr title="Info">I</abbr></th>
+              <th style="width:30px;"><abbr title="Warning">W</abbr></th>
+              <th style="width:30px;"><abbr title="Error">E</abbr></th>
+            </tr>
+          </thead>
+          <tbody>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#jp.osd.doma.extensions.internal.Logger.java">jp/osd/doma/extensions/internal/Logger.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#jp.osd.doma.extensions.jdbc.tx.AutoLocalTransactionalDataSource.java">jp/osd/doma/extensions/jdbc/tx/AutoLocalTransactionalDataSource.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#jp.osd.doma.extensions.ByteArrayLengthException.java">jp/osd/doma/extensions/ByteArrayLengthException.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#jp.osd.doma.extensions.jdbc.tx.AutoUserTransactionalDataSource.java">jp/osd/doma/extensions/jdbc/tx/AutoUserTransactionalDataSource.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#jp.osd.doma.extensions.NullException.java">jp/osd/doma/extensions/NullException.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#jp.osd.doma.extensions.jdbc.tx.AutoTransactionalDataSource.java">jp/osd/doma/extensions/jdbc/tx/AutoTransactionalDataSource.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#jp.osd.doma.extensions.PatternException.java">jp/osd/doma/extensions/PatternException.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#jp.osd.doma.extensions.jdbc.Slf4jJdbcLogger.java">jp/osd/doma/extensions/jdbc/Slf4jJdbcLogger.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#jp.osd.doma.extensions.DomainException.java">jp/osd/doma/extensions/DomainException.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#jp.osd.doma.extensions.internal.MessageCodes.java">jp/osd/doma/extensions/internal/MessageCodes.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#jp.osd.doma.extensions.MinimumLengthException.java">jp/osd/doma/extensions/MinimumLengthException.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#jp.osd.doma.extensions.package-info.java">jp/osd/doma/extensions/package-info.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#jp.osd.doma.extensions.internal.package-info.java">jp/osd/doma/extensions/internal/package-info.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#jp.osd.doma.extensions.ValidationUtils.java">jp/osd/doma/extensions/ValidationUtils.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  5
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#jp.osd.doma.extensions.jdbc.tx.AbstractAutoTransactionalDataSource.java">jp/osd/doma/extensions/jdbc/tx/AbstractAutoTransactionalDataSource.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#jp.osd.doma.extensions.jdbc.tx.package-info.java">jp/osd/doma/extensions/jdbc/tx/package-info.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#jp.osd.doma.extensions.MaximumLengthException.java">jp/osd/doma/extensions/MaximumLengthException.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#jp.osd.doma.extensions.StringBaseDomainException.java">jp/osd/doma/extensions/StringBaseDomainException.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://maven.apache.org/checkstyle.html#jp.osd.doma.extensions.jdbc.package-info.java">jp/osd/doma/extensions/jdbc/package-info.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                      </tbody>
+        </table>
+        
+      </description>
+    </item>
+  </channel>
+</rss>
+
