@@ -72,6 +72,14 @@
 			<version>1.6.1</version>
 		</dependency>
 
+        <!-- JTA 関連 -->
+        <dependency>
+            <groupId>javax.transaction</groupId>
+            <artifactId>jta</artifactId>
+            <version>1.1</version>
+            <scope>provided</scope>
+        </dependency>
+
 		<!-- テスト関連 -->
 		<dependency>
 			<groupId>junit</groupId>
@@ -95,6 +103,13 @@
             <groupId>janino</groupId>
             <artifactId>janino</artifactId>
             <version>2.5.10</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <!-- テストで用いる DB -->
+            <groupId>com.h2database</groupId>
+            <artifactId>h2</artifactId>
+            <version>1.3.153</version>
             <scope>test</scope>
         </dependency>
 	</dependencies>
@@ -245,14 +260,10 @@
 					<links>
 						<!-- Java SE 6 -->
 						<link>http://java.sun.com/javase/ja/6/docs/ja/api/</link>
-						<!-- Google Guice 3.0-rc3 -->
-						<link>http://google-guice.googlecode.com/svn/tags/3.0-rc3/javadoc/</link>
-						<!-- JSR 330 -->
-						<link>http://atinject.googlecode.com/svn/trunk/javadoc/</link>
+						<!-- Java EE 6 -->
+						<link>http://download.oracle.com/javaee/6/api/</link>
 						<!-- Doma -->
 						<link>http://doma.seasar.org/apidocs/</link>
-						<!-- Commons DBCP 1.4 -->
-						<link>http://commons.apache.org/dbcp/api-1.4/</link>
 					</links>
 				</configuration>
 			</plugin>
